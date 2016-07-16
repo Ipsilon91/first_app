@@ -13,6 +13,3 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-
-# Непонятный файл, из-за которого не коммитятся данные
-/.idea/workspace.xml
